@@ -2,7 +2,7 @@
 # System Monitor Project Report
 
 **Project Name:** Kali Smart System & Study Assistant Manager  
-**File:** temp.py  
+**File:** OS.py  
 **Date:** December 12, 2025  
 **Language:** Python 3  
 **Framework:** Tkinter GUI
@@ -335,7 +335,7 @@ The project demonstrates advanced Python programming concepts and provides pract
 ### **File Structure**
 
 ```
-temp.py
+OS.py
 ├── Helper Functions (Lines 1-125)
 ├── GUI Class Definition (Lines 127-651)
 ├── System Info Components (Lines 160-175)
