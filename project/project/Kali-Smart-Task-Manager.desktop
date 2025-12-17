@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Smart Task Manager
+Comment=Kali System & Study Assistant Manager
+Exec=/home/kali/Desktop/dashboard.sh
+Icon=utilities-system-monitor
+Terminal=false
+Categories=System;Utility;
